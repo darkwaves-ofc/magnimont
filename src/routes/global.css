@@ -1,0 +1,76 @@
+.font-calsans {
+  font-family: "Cal Sans", s "system-ui";
+}
+.font-inter {
+  font-family: "Inter", "system-ui";
+}
+
+.btn {
+  cursor: pointer;
+}
+
+body {
+  background-color: grey;
+}
+.box-shadow {
+  box-shadow: 0 -5px 45px 10px black, 0 -10px 60px 10px black;
+}
+.blur-effect {
+  filter: url(#blur-filter);
+}
+
+.golden-text {
+  background: linear-gradient(to bottom, #cfc09f 27%, #ffecb3 40%, #3a2c0f 78%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  position: relative;
+}
+
+.staggered {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+}
+
+.highlight {
+  position: relative;
+  text-decoration: none;
+  transition: color 1s ease;
+}
+
+.highlight::before {
+  background: hsl(45 100% 70%);
+  content: "";
+  inset: 0;
+  position: absolute;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.5s ease-in-out;
+  z-index: -1;
+}
+
+.highlight:hover {
+  color: #000;
+}
+.highlight:hover::before {
+  transform: scaleX(1);
+
+  transform-origin: left;
+}
+
+.globalcard,
+.card,
+.frosted-glass {
+  /* background-color: rgba(255, 255, 255, 0.103); */
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(7px);
+  background: linear-gradient(
+    130deg,
+    #02002456 1%,
+    rgba(2, 0, 36, 0.144) 33%,
+    rgba(2, 0, 36, 0.068) 67%,
+    rgba(0, 212, 255, 0) 100%
+  );
+}
