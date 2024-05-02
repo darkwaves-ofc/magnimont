@@ -32,11 +32,11 @@
     <!-- data-aos-delay="0"
   data-aos-duration="500"
   data-aos="fade-in" -->
-    <h1
+    <div
       class="staggered font-calsans text-4xl sm:text-5xl lg:text-5xl xl:text-7xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50"
     >
       Introducing
-    </h1>
+    </div>
     <!-- data-aos-delay="0"
     data-aos-duration="500"
     data-aos="fade-in" -->
