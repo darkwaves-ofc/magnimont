@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
   export function hover(node) {
     node.onmousemove = (e) => {
       for (const card of node.getElementsByClassName("card")) {
@@ -156,7 +156,7 @@
     <TabContentItems id={5} {activeTabValue}><Graphic /></TabContentItems>
     <TabContentItems id={6} {activeTabValue}><Branding /></TabContentItems>
 
-    <!-- bhgbksdjhfgb -->
+   bhgbksdjhfgb 
   </TabWrapper>
 </div>
 
@@ -343,4 +343,4 @@
       width: 100%;
     }
   }
-</style>
+</style> -->
