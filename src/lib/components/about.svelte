@@ -12,7 +12,7 @@
       chars,
       {
         y: 100,
-        opacity: 1,
+        opacity: 0,
       },
       {
         y: 0,
@@ -29,18 +29,18 @@
   <div
     class="flex flex-col md:flex-row items-center justify-between lg:gap-7 md:gap-4 sm:gap-2 self-center"
   >
+    <!-- data-aos-delay="0"
+  data-aos-duration="500"
+  data-aos="fade-in" -->
     <h1
-      data-aos-delay="0"
-      data-aos-duration="500"
-      data-aos="fade-in"
       class="staggered font-calsans text-4xl sm:text-5xl lg:text-5xl xl:text-7xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50"
     >
       Introducing
     </h1>
+    <!-- data-aos-delay="0"
+    data-aos-duration="500"
+    data-aos="fade-in" -->
     <h1
-      data-aos-delay="0"
-      data-aos-duration="500"
-      data-aos="fade-in"
       class="golden-text staggered font-calsans text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50"
     >
       MAGNIMONT
