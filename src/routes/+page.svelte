@@ -93,7 +93,7 @@
     site: "@magnimont",
     cardType: "summary_large_image",
     title: "Magnimont",
-    description: "This example uses more of the available config options.", //edit this too
+    description: "This example uses more of the available config options.", //edit this too this is the description for like discord and twitter etc etc
     image: "%sveltekit.assets%/favico.svg",
     imageAlt: "image here",
   }}
