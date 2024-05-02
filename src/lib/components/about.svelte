@@ -1,46 +1,23 @@
 <script>
   import Button from "./button.svelte";
-  import gsap from "gsap";
-  import SplitType from "split-type";
-  import { onMount } from "svelte";
-
-  onMount(() => {
-    const ourText = new SplitType(".staggered", { types: "chars" });
-    const chars = ourText.chars;
-
-    gsap.fromTo(
-      chars,
-      {
-        y: 100,
-        opacity: 0,
-      },
-      {
-        y: 0,
-        opacity: 1,
-        stagger: 0.05,
-        duration: 1,
-        ease: "power4.out",
-      }
-    );
-  });
 </script>
 
 <div class="flex items-center justify-center md:pb-3">
   <div
     class="flex flex-col md:flex-row items-center justify-between lg:gap-7 md:gap-4 sm:gap-2 self-center"
   >
-    <!-- data-aos-delay="0"
-  data-aos-duration="500"
-  data-aos="fade-in" -->
     <div
+      data-aos-delay="0"
+      data-aos-duration="500"
+      data-aos="fade-up"
       class="staggered font-calsans text-4xl sm:text-5xl lg:text-5xl xl:text-7xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50"
     >
       Introducing
     </div>
-    <!-- data-aos-delay="0"
-    data-aos-duration="500"
-    data-aos="fade-in" -->
     <h1
+      data-aos-delay="0"
+      data-aos-duration="500"
+      data-aos="fade-up"
       class="golden-text staggered font-calsans text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50"
     >
       MAGNIMONT

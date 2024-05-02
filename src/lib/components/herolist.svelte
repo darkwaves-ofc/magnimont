@@ -32,7 +32,7 @@
 
 <div id="testimonials">
   <List
-    data-aos-delay="2000"
+    data-aos-delay="1200"
     data-aos-duration="500"
     data-aos="fade-in"
     tag="ul"
