@@ -5,24 +5,24 @@
   const testimonials = [
     {
       quote:
-        "Magnimont's team truly understands the art of translating ideas into beautiful and functional digital realities. The custom website and branding they created for our company is not only visually stunning but has helped drive more qualified leads than ever before. Their creativity and technical expertise are second to none!",
+        "Magnimonts team truly understands the art of translating ideas into beautiful and functional digital realities. The custom website and branding they created for our company is not only visually stunning but has helped drive more qualified leads than ever before. Their creativity and technical expertise are second to none!",
       name: "Zortec",
       title: "Youtuber, 20k+ Subscribers",
     },
     {
       quote:
-        "Someone who's worked with multiple digital agencies, I can confidently say that Magnimont stands out from the pack. Their intelligent chatbot assistant has streamlined our customer service operations immensely, providing a seamless experience for our users around the clock. The team's level of service and commitment to our success has been outstanding.",
+        "Someone whos worked with multiple digital agencies, I can confidently say that Magnimont stands out from the pack. Their intelligent chatbot assistant has streamlined our customer service operations immensely, providing a seamless experience for our users around the clock. The team's level of service and commitment to our success has been outstanding.",
       name: "Chels Childers",
       title: "Internet Enthusiast",
     },
     {
-      quote: "Revamping our online community was no easy task, but Magnimont's Discord bot development made it a seamless transition. The features they built have facilitated better moderation, increased engagement, and created an incredibly intuitive experience for our members. Their expertise in crafting tailored bot solutions is unmatched.",
+      quote: "Revamping our online community was no easy task, but Magnimonts Discord bot development made it a seamless transition. The features they built have facilitated better moderation, increased engagement, and created an incredibly intuitive experience for our members. Their expertise in crafting tailored bot solutions is unmatched.",
       name: "Kish Kuruppath",
       title: "Project Manager ",
     },
     {
       quote:
-        "From branding and web design to bot development and marketing assets, Magnimont's full-service offerings have been invaluable for our growing business. Their team is highly collaborative, working closely with us to understand our goals and create an integrated digital ecosystem that accurately reflects our brand vision.",
+        "From branding and web design to bot development and marketing assets, Magnimonts full-service offerings have been invaluable for our growing business. Their team is highly collaborative, working closely with us to understand our goals and create an integrated digital ecosystem that accurately reflects our brand vision.",
       name: "x77",
       title: "Founder MemeOn",
     },

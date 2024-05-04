@@ -29,7 +29,7 @@
     <Intro
       id="testimonials"
       name="Client Testimonials"
-      desc="Esteemed clients share their experiences with Magnimont's tailored digital solutions."
+      desc="Esteemed clients share their experiences with Magnimonts tailored digital solutions."
     />
     <Laptop />
   </div>
@@ -78,7 +78,7 @@
   openGraph={{
     url: "https://www.url.ie/a",
     title: "Magnimont ",
-    description: "Magnimont is a leading digital agency specializing in custom web development, AI solutions, and tailored software. We craft innovative websites, intelligent chatbots, Discord bots, and custom applications to drive growth for businesses across industries. Our experts blend cutting-edge technologies with creative ingenuity to deliver digital experiences that captivate users and propel your brand forward."", //edit this too okay?
+    description: "Magnimont is a leading digital agency specializing in custom web development, AI solutions, and tailored software. We craft innovative websites, intelligent chatbots, Discord bots, and custom applications to drive growth for businesses across industries. Our experts blend cutting-edge technologies with creative ingenuity to deliver digital experiences that captivate users and propel your brand forward.", //edit this too okay?
     images: [
       {
         url: "%sveltekit.assets%/favico.svg",

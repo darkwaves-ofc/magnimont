@@ -87,8 +87,10 @@
           <div class="card-info">
             <i class="fa-duotone fa-person-to-portal" />
             <div class="card-info-title">
-              <h3>Custom Software              </h3>
-              <h4>Innovative custom software aligning with your unique requirements.</h4>
+              <h3>Custom Software
+              </h3>
+              <h4>Innovative custom software aligning with your unique requirements.
+              </h4>
             </div>
           </div>
         </div>
@@ -106,8 +108,8 @@
           <div class="card-info">
             <i class="fa-duotone fa-person-from-portal" />
             <div class="card-info-title">
-              <h3>Branding & Graphics              </h3>
-              <h4>Visually compelling assets that reinforce your brand identity.              </h4>
+              <h3>Branding & Graphics</h3>
+              <h4>Visually compelling assets that reinforce your brand identity.</h4>
             </div>
           </div>
         </div>
@@ -125,7 +127,7 @@
           <div class="card-info">
             <i class="fa-duotone fa-otter" />
             <div class="card-info-title">
-              <h3>Custom Scripts              </h3>
+              <h3>Custom Scripts</h3>
               <h4>Tailored automation scripts to streamline your workflows.
               </h4>
             </div>

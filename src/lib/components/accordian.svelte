@@ -29,8 +29,8 @@
         class=" gap-5 text-sm md:text-xl flex flex-row items-center justify-start"
       >
         <PlusOutline size="sm" />
-        {title}</span
-      >
+        {title}
+        </span>
       <p class="border-0 text-zinc-200">
         {paragraph}
       </p>
