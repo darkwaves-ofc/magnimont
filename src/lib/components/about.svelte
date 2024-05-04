@@ -30,13 +30,10 @@
   data-aos="fade"
   class="font-inter mt-4 font-normal text-xs md:text-sm lg:text-base text-neutral-400 max-w-[60%] tracking-wider text-center mx-auto"
 >
-  We are a service that provides a vast variety of Websites and Discord Bots
-  which are developed and nourished by our team along with a few other different
-  projects. Unlike other bot shops, we develop Discord Bots and Websites
-  according to the taste of our customers. You name them and we got it. Make
-  your imaginations comes to life
+Magnimont offers tailored digital solutions to elevate brands and drive success. Our experts craft custom websites, intelligent chatbots for platforms like Discord and Telegram, branded visuals and marketing assets, and seamlessly integrated bot systems. Whatever your vision, we leverage cutting-edge tech and creative prowess to develop captivating digital experiences aligned with your unique goals and audience. Unlock your potential with Magnimont's innovative, full-service digital solutions
 
   <br class="mb-5" />
+  <br>
   <b>So what are you waiting for?</b>
   <br class="mb-5" />
   <Button />

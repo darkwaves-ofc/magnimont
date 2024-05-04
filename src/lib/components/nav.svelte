@@ -57,7 +57,7 @@
     </svg>
     <span
       class="self-center whitespace-nowrap text-xl font-semibold font-calsans text-white"
-      >Magnimont</span
+      >‎ ‎ Magnimont</span
     >
   </NavBrand>
   <div class="flex md:order-2">

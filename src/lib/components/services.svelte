@@ -28,8 +28,8 @@
           <div class="card-info">
             <i class="fa-duotone fa-apartment" />
             <div class="card-info-title">
-              <h3>Web DEvelopent</h3>
-              <h4>Places to be apart. Wait, what?</h4>
+              <h3>Website Development</h3>
+              <h4>Expertly coded websites tailored to your business needs.</h4>
             </div>
           </div>
         </div>
@@ -46,8 +46,10 @@
           <div class="card-info">
             <i class="fa-duotone fa-unicorn" />
             <div class="card-info-title">
-              <h3>Web design</h3>
-              <h4>A single corn. Er, I mean horn.</h4>
+              <h3>UI/UX Design
+              </h3>
+              <h4>Intuitive interfaces focused on exceptional user experiences.
+              </h4>
             </div>
           </div>
         </div>
@@ -65,8 +67,10 @@
           <div class="card-info">
             <i class="fa-duotone fa-blender-phone" />
             <div class="card-info-title">
-              <h3>UI UX</h3>
-              <h4>These absolutely deserve to exist.</h4>
+              <h3>AI Software Development
+              </h3>
+              <h4>Cutting-edge AI integrations to drive efficiency and insights.
+              </h4>
             </div>
           </div>
         </div>
@@ -83,8 +87,8 @@
           <div class="card-info">
             <i class="fa-duotone fa-person-to-portal" />
             <div class="card-info-title">
-              <h3>Product</h3>
-              <h4>See you...</h4>
+              <h3>Custom Software              </h3>
+              <h4>Innovative custom software aligning with your unique requirements.</h4>
             </div>
           </div>
         </div>
@@ -102,8 +106,8 @@
           <div class="card-info">
             <i class="fa-duotone fa-person-from-portal" />
             <div class="card-info-title">
-              <h3>Graphics</h3>
-              <h4>...over here.</h4>
+              <h3>Branding & Graphics              </h3>
+              <h4>Visually compelling assets that reinforce your brand identity.              </h4>
             </div>
           </div>
         </div>
@@ -121,8 +125,9 @@
           <div class="card-info">
             <i class="fa-duotone fa-otter" />
             <div class="card-info-title">
-              <h3>Branding</h3>
-              <h4>Look at me, imma cute lil fella.</h4>
+              <h3>Custom Scripts              </h3>
+              <h4>Tailored automation scripts to streamline your workflows.
+              </h4>
             </div>
           </div>
         </div>

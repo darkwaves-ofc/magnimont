@@ -44,7 +44,7 @@
       <span
         href="/"
         class="me-4 hover:underline md:me-6"
-        textColor="text-gray-700 dark:text-white">Reach more customers</span
+        textColor="text-gray-700 dark:text-white">Custom Digital Solutions </span
       >
     </Li>
 
@@ -54,7 +54,7 @@
         href="/"
         class="me-4 hover:underline md:me-6"
         textColor="text-gray-700 dark:text-white"
-        >Save your time and effort</span
+        >Innovative Tech & Creativity</span
       >
     </Li>
     <Li class="flex">
@@ -63,7 +63,7 @@
         href="/"
         class="me-4 hover:underline md:me-6"
         textColor="text-gray-700 dark:text-white"
-        >elegent designs as per needs</span
+        >Full-Service Mastery</span
       >
     </Li>
     <!-- <Li class='flex'>

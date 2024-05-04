@@ -28,8 +28,8 @@
   <div class="flex flex-col">
     <Intro
       id="testimonials"
-      name="Trusted by many"
-      desc="edit this in +page.svelte, told ya i did my best to code clean. aLSO EDIT THE METATAGS IN +PAFGE.SVELET"
+      name="Client Testimonials"
+      desc="Esteemed clients share their experiences with Magnimont's tailored digital solutions."
     />
     <Laptop />
   </div>
@@ -45,8 +45,8 @@
 
   <Intro
     id="services"
-    name="What we offer"
-    desc="edit this in +page.svelte bro its easy. I used props for this."
+    name="Our Expertise "
+    desc="Innovative solutions"
     class="highlight"
   />
 
@@ -61,7 +61,8 @@
   />
   <Intro
     name="Frequently Asked Questions"
-    desc="loreem ipsum meet amnt yk weknd ballz kanye east auroli eret eusntha uoit."
+    desc="Addressing your queries, simplifying your journey
+    "
   />
   <Faqtabs />
 </div>
@@ -77,7 +78,7 @@
   openGraph={{
     url: "https://www.url.ie/a",
     title: "Magnimont ",
-    description: "Open Graph Description", //edit this too okay?
+    description: "Magnimont is a leading digital agency specializing in custom web development, AI solutions, and tailored software. We craft innovative websites, intelligent chatbots, Discord bots, and custom applications to drive growth for businesses across industries. Our experts blend cutting-edge technologies with creative ingenuity to deliver digital experiences that captivate users and propel your brand forward."", //edit this too okay?
     images: [
       {
         url: "%sveltekit.assets%/favico.svg",
@@ -89,12 +90,12 @@
     siteName: "Magnimont",
   }}
   twitter={{
-    handle: "@handle", //put our twitter username here
+    handle: "@magnimont", //put our twitter username here
     site: "@magnimont",
-    cardType: "summary_large_image",
+    cardType: "https://i.imgur.com/aTa8bjq.png",
     title: "Magnimont",
-    description: "This example uses more of the available config options.", //edit this too this is the description for like discord and twitter etc etc
+    description: "Magnimont is a leading digital agency specializing in custom web development, AI solutions, and tailored software. We craft innovative websites, intelligent chatbots, Discord bots, and custom applications to drive growth for businesses across industries. Our experts blend cutting-edge technologies with creative ingenuity to deliver digital experiences that captivate users and propel your brand forward.", //edit this too this is the description for like discord and twitter etc etc
     image: "%sveltekit.assets%/favico.svg",
-    imageAlt: "image here",
+    imageAlt: "https://i.imgur.com/aTa8bjq.png",
   }}
 />

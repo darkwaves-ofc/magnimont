@@ -75,11 +75,10 @@
             <p
               class="relative z-20 text-sm leading-[1.6] text-gray-100 font-normal"
             >
-              "Flowbite is just awesome. It contains tons of predesigned
-              components and pages starting from login screen to complex
-              dashboard. Perfect choice for your next SaaS application."
+              {item.quote}
             </p>
           </Blockquote>
+          
 
           <div class="relative z-20 mt-6 flex flex-row items-center">
             <span class="flex flex-col gap-1">
