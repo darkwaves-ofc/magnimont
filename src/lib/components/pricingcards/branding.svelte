@@ -5,7 +5,7 @@
 
 <div
   id="pricing"
-  class="flex my-12 flex-col md:flex-row items-center justify-between gap-8 py-12 px-[10%] md:px-5"
+  class="flex my-12 flex-col md:flex-row items-center justify-center gap-8 py-12 px-[10%] md:px-5"
 >
 
   <Card
@@ -122,7 +122,7 @@
     Buy Now
     </button>
   </Card>
-  <Card
+  <!-- <Card
     data-aos-delay="0"
     data-aos-duration="1000"
     data-aos="fade-up"
@@ -134,7 +134,6 @@
       <span class="text-3xl font-semibold">$</span>
       <span class="text-5xl font-extrabold tracking-tight">1999+</span>
     </div>
-    <!-- List -->
     <ul class="my-7 space-y-4">
       <li class="flex space-x-2 rtl:space-x-reverse">
         <CheckCircleSolid class="w-4 h-4 text-amber-200" />
@@ -198,5 +197,5 @@
     >
       Contact Us
     </button>
-  </Card>
+  </Card> -->
 </div>
